@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+
+    <!-- Main Screen Strings -->
+    <string name="activity_main_title">Coding Tasks</string>
+    <string name="chat_button">CHAT</string>
+    <string name="login_button">LOGIN</string>
+    <string name="animation_button">ANIMATION</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+
+    <string name="fadeIn_button">FADE IN</string>
+
+    <!-- URL strings -->
+    <string name="chatURL">http://dev.rapptrlabs.com/Tests/scripts/chat_log.php</string>
+    <string name="loginURL">http://dev.rapptrlabs.com/Tests/scripts/login.php</string>
+</resources>
